@@ -40,7 +40,7 @@ clear
 figlet "Sutam Project"
 echo ""
 echo -n "Waktu system   :"; date
-echo -n "Anda           :"; whoami
+echo -n "Nama User      :"; whoami
 echo -n "Banyak pemakai :"; who | wc -l
 echo ""
 echo "Password baru mysql :"
