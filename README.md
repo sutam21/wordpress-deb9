@@ -1,9 +1,15 @@
-SMK N 1 KEJOBONG
-Creator : Rafli Setiawan
+# Autoinstallation Script Wordpress Debian 9
 
-Banjarnegara Gilar-Gilar
-Ready Script, Tinggal Sedot
-Baca Aturan Pakai, Jika Sakit Berlanjut Hubungi Dokter
+Creator : Shinau Lee Been Vinter
 
+Use this command to autoinstall wordpress on your debian
 
+```bash
+apt-get install git
+git clone https://github.com/sutam21/wordpress-deb9
+chmod +x install.sh
+bash ./install.sh
+```
 
+## Contact
+https://t.me/bkprogrammer
